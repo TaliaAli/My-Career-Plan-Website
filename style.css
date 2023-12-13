@@ -1,0 +1,12 @@
+body {
+    background-color: slategray;
+    padding: 20px;
+
+}
+h3 {
+    color: darkred;
+    font-family: sans-serif ;
+}
+li {
+    margin: 20px;
+}
